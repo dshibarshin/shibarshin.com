@@ -68,6 +68,22 @@ body {
   width: 100%;
 }
 
+#posts li {
+  margin: 20px auto;
+}
+
+#latest-post {
+  margin-bottom: 60px;
+}
+
+#single-post {
+  margin-bottom: 60px;
+}
+
+#seeMore:hover {
+  color: #8BA5C4;
+}
+
 a:link {
     text-decoration: none;
     color: #353535;
