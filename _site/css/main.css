@@ -41,6 +41,7 @@ body {
 }
 
 ul.posts {
+  padding-left: 240px;
   list-style-type: none;
   margin-bottom: 2em;
 }
