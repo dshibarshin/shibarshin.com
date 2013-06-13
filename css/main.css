@@ -50,6 +50,22 @@ body {
     text-rendering: optimizeLegibility;
 }
 
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+ul.posts li {
+  line-height: 1.75em;
+}
+
+ul.posts span {
+  color: #222222;
+  font-family: 'Raleway', sans-serif;
+  font-size: 17px;
+  text-rendering: optimizeLegibility;
+}
+
 #header-wrapper {
   height: 100%;
   text-align: left;
