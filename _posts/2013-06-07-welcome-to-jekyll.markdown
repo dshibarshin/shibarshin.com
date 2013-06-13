@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: default
+title:  "Testing Jekyll!"
 date:   2013-06-07 23:12:02
 categories: jekyll update
 ---
