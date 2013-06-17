@@ -21,7 +21,7 @@ header {
   float: none;
   margin-bottom: -180px;
   margin: 0 auto;
-  background-color: #F1EFEE;
+  background-color: #FFFFFF;
   width: 100%;
 }
 
@@ -54,15 +54,16 @@ ul.post span {
 
 #sidebar {
   text-align:center;
-  margin-top: 40px;
   margin-bottom: 40px;
   position:fixed;
   width: 240px;
+  height: 100%;
+  background-color: #F1EFEE;
 }
 
 #sidebar a:hover {
     color:#2F8CD5;
-    background-color:#FFFFFF;
+    background-color:#F1EFEE;
 }
 
 #blog {
