@@ -2,3 +2,9 @@ name: Dmitriy Shibarshin
 pygments: true
 description: Dmitriy Shibarshin
 url: http://shibarsh.in/
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-41805851-1'
+  getclicky :
+    site_id :
