@@ -46,7 +46,7 @@ ul.post li {
 
 ul.post span {
   color: #222222;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway', sans-serif !important ;
   font-size: 18px;
   text-rendering: optimizeLegibility;
 }
