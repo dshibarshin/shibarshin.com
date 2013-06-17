@@ -60,6 +60,11 @@ ul.post span {
   width: 240px;
 }
 
+#sidebar a:hover {
+    color:#2F8CD5;
+    background-color:#FFFFFF;
+}
+
 #blog {
   padding-left: 280px;
   padding-top: 40px;
