@@ -56,12 +56,12 @@ ul.post span {
   margin-bottom: 40px;
   position:fixed;
   width: 240px;
-  height: 420px;
+  height: auto;
   background-color: #F1EFEE;
 }
 
 #sidebar a:hover {
-    color:#2F8CD5;
+    color:#3399cc;
     background-color:#F1EFEE;
 }
 
