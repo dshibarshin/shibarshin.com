@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Your New Jekyll Site</title>
+		<description></description>
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>First Post</title>
+				<description>&lt;p&gt;It&amp;#8217;s about time I got Jekyll working.&lt;/p&gt;</description>
+				<pubDate>Thu, 13 Jun 2013 18:29:30 -0400</pubDate>
+				<link>/2013/06/13/first-post.html</link>
+				<guid isPermaLink="true">/2013/06/13/first-post.html</guid>
+			</item>
+		
+			<item>
+				<title>Testing Jekyll!</title>
+				<description>&lt;p&gt;This a test&lt;/p&gt;</description>
+				<pubDate>Thu, 13 Jun 2013 14:49:02 -0400</pubDate>
+				<link>/2013/06/13/testing-jekyll.html</link>
+				<guid isPermaLink="true">/2013/06/13/testing-jekyll.html</guid>
+			</item>
+		
+	</channel>
+</rss>
