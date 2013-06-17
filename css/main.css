@@ -72,12 +72,12 @@ ul.post span {
   margin-bottom: 2em;
 }
 
-footer {
+/*footer {
   padding: 0 10px;
   position: fixed;
   bottom: 10px;
   width: 100%;
-}
+}*/
 
 .right {
   float: right;
