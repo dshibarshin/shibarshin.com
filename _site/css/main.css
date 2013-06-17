@@ -51,15 +51,12 @@ ul.post span {
   text-rendering: optimizeLegibility;
 }
 
-/*.verticalLine {
-  content: '';
-  width: 0;
-  height: 100%;
-  position: absolute;
-  border: 1px solid gray;
-  top: 0;
-  left: 240px;
-}*/
+#sidebar {
+  text-align:center;
+  margin-top: 40px;
+  position:fixed;
+  width: 240px;
+}
 
 #blog {
   padding-left: 280px;
@@ -73,6 +70,18 @@ footer {
   position: fixed;
   bottom: 10px;
   width: 100%;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.block {
+  display: block;
 }
 
 a:link {
