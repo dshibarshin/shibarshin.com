@@ -42,7 +42,7 @@ ul.post span {
 
 #sidebar {
   text-align: center;
-  position: absolute;
+  position: fixed;
   width: 240px;
   height: auto;
   background-color: #ffffff;
