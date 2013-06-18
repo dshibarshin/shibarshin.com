@@ -58,8 +58,11 @@
 
 <div id="blog">
 	<div class="post">
-      <span>{{ page.date | date: "%d %B %Y" }}</span>
-	  <p>{{content}}</p>
+		<h2><a href="{{page.url}}">{{page.title}}</a></h2>
+		<span>{{ page.date | date: "%d %B %Y" }}</span>
+		<hr />
+	    <p>{{content}}</p>
+	    <hr />
 	</div>
 </div>
 
