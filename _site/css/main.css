@@ -15,6 +15,11 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+.logo {
+  width: 240px;
+  height: auto;
+}
+
 ul.post {
   list-style-type: none;
   margin-bottom: 1.618em;
@@ -78,4 +83,13 @@ a:hover {
 a:active {
     text-decoration: none;
     color: #333333;
+}
+
+@media all and (max-device-width: 768px) and (device-height:1024px){
+  .logo {
+    width: auto;
+  }
+  body {
+    text-align: center;
+  }
 }
