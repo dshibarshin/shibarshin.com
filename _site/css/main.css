@@ -28,8 +28,10 @@ header {
   top: 50%;
   left: 0;
   width: 100%;
-  text-rendering: optimizeLegibility;
   margin: 8px auto;
+}
+
+header .social {
   text-align: center;
 }
 
@@ -56,7 +58,6 @@ ul.post li {
 }
 
 ul.post span {
-  color: #222222;
   font-family: "roboto", sans-serif;
   font-size: 1em;
   text-rendering: optimizeLegibility;
@@ -71,24 +72,25 @@ footer {
 }
 
 h1 {
-  color: white;
+  color: #fff !important;
   font: 100 72px/72px 'Helvetica Neue', Helvetica, Arial;
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 4px;
+  text-rendering: optimizeLegibility;
 }
 
 a:link {
     text-decoration: none;
-    color: #000;
+    color: #fff;
 }
 a:visited {
     text-decoration: none;
-    color: #000;
+    color: #fff;
 }
 a:hover {
     text-decoration: none;
-    color: #000;
+    color: #fff;
 }
 a:active {
     text-decoration: none;
