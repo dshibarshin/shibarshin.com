@@ -7,6 +7,14 @@
 		<atom:link href="http://shibarsh.in//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Why?</title>
+				<description>&lt;p&gt;Why must I keep changing everything?&lt;/p&gt;</description>
+				<pubDate>Thu, 04 Jul 2013 08:11:30 -0400</pubDate>
+				<link>http://shibarsh.in//2013/07/04/why%3F.html</link>
+				<guid isPermaLink="true">http://shibarsh.in//2013/07/04/why%3F.html</guid>
+			</item>
+		
+			<item>
 				<title>Test</title>
 				<description>&lt;p&gt;My money&amp;#8217;s in that office, right? If she start giving me some bullshit about it ain&amp;#8217;t there, and we got to go someplace else and get it, I&amp;#8217;m gonna shoot you in the head then and there. Then I&amp;#8217;m gonna shoot that bitch in the kneecaps, find out where my goddamn money is. She gonna tell me too. Hey, look at me when I&amp;#8217;m talking to you, motherfucker. You listen: we go in there, and that nigga Winston or anybody else is in there, you the first motherfucker to get shot. You understand?&lt;/p&gt;
 
@@ -18,6 +26,22 @@
 				<pubDate>Mon, 17 Jun 2013 08:04:30 -0400</pubDate>
 				<link>http://shibarsh.in//2013/06/17/test.html</link>
 				<guid isPermaLink="true">http://shibarsh.in//2013/06/17/test.html</guid>
+			</item>
+		
+			<item>
+				<title>First Post</title>
+				<description>&lt;p&gt;It&amp;#8217;s about time I got Jekyll working.&lt;/p&gt;</description>
+				<pubDate>Thu, 13 Jun 2013 18:29:30 -0400</pubDate>
+				<link>http://shibarsh.in//2013/06/13/first-post.html</link>
+				<guid isPermaLink="true">http://shibarsh.in//2013/06/13/first-post.html</guid>
+			</item>
+		
+			<item>
+				<title>Testing Jekyll!</title>
+				<description>&lt;p&gt;This a test&lt;/p&gt;</description>
+				<pubDate>Thu, 13 Jun 2013 14:49:02 -0400</pubDate>
+				<link>http://shibarsh.in//2013/06/13/testing-jekyll.html</link>
+				<guid isPermaLink="true">http://shibarsh.in//2013/06/13/testing-jekyll.html</guid>
 			</item>
 		
 	</channel>
