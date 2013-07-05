@@ -1,0 +1,9 @@
+---
+layout: default
+title: "WIP"
+date: 2013-07-05 9:44:00
+---
+
+So the blog is running and I'm fairly happy with the whole layout. 
+
+Now let's move onto [Devtro.co](http://devtro.co/ "Devtro") 
