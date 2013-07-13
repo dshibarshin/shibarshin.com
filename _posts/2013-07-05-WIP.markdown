@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "WIP"
-date: 2013-07-05 9:44:00
 ---
 
 So the blog is running and I'm fairly happy with the whole layout. 
