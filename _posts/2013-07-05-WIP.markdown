@@ -3,6 +3,10 @@ layout: default
 title: "WIP"
 ---
 
-So the blog is running and I'm fairly happy with the whole layout. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis tortor at justo varius ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam a nunc commodo lorem venenatis tristique. Mauris egestas orci arcu, nec malesuada felis condimentum eu. Cras quis convallis diam. Morbi rutrum erat quis tortor semper vulputate. Vestibulum luctus ligula eu faucibus vulputate. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+Donec ac pellentesque felis, quis porta nunc. Proin varius lobortis urna, id placerat leo pulvinar et. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam imperdiet vestibulum odio, eget tincidunt tellus convallis at. Maecenas ut tempus velit, tincidunt viverra dolor. Aenean semper arcu ut lorem tempus, vel iaculis justo dapibus. In commodo orci sodales tincidunt lacinia. Sed vehicula eget diam id porta. Nam rhoncus lorem quis nibh placerat, nec bibendum lacus ullamcorper. Cras velit urna, gravida ac quam sit amet, tempus dignissim nisi. Nunc tristique tincidunt est et venenatis.
+
+Nullam tincidunt felis lacus, adipiscing lacinia enim ultricies sed. Etiam vitae pharetra leo, sit amet porta diam. Nam ultrices sodales lacus, id vulputate mauris. Nulla sit amet ultrices dui. Sed porttitor aliquam urna, sit amet ultrices ante. Donec sagittis sem ut porta luctus. Phasellus non lacinia lorem, dictum fringilla tellus. Praesent sollicitudin justo eu augue tincidunt mattis.
 
 Now let's move onto [Devtro.co](http://devtro.co/ "Devtro") 

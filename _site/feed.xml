@@ -8,7 +8,11 @@
 		
 			<item>
 				<title>WIP</title>
-				<description>&lt;p&gt;So the blog is running and I&amp;#8217;m fairly happy with the whole layout.&lt;/p&gt;
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis tortor at justo varius ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam a nunc commodo lorem venenatis tristique. Mauris egestas orci arcu, nec malesuada felis condimentum eu. Cras quis convallis diam. Morbi rutrum erat quis tortor semper vulputate. Vestibulum luctus ligula eu faucibus vulputate. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.&lt;/p&gt;
+
+&lt;p&gt;Donec ac pellentesque felis, quis porta nunc. Proin varius lobortis urna, id placerat leo pulvinar et. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam imperdiet vestibulum odio, eget tincidunt tellus convallis at. Maecenas ut tempus velit, tincidunt viverra dolor. Aenean semper arcu ut lorem tempus, vel iaculis justo dapibus. In commodo orci sodales tincidunt lacinia. Sed vehicula eget diam id porta. Nam rhoncus lorem quis nibh placerat, nec bibendum lacus ullamcorper. Cras velit urna, gravida ac quam sit amet, tempus dignissim nisi. Nunc tristique tincidunt est et venenatis.&lt;/p&gt;
+
+&lt;p&gt;Nullam tincidunt felis lacus, adipiscing lacinia enim ultricies sed. Etiam vitae pharetra leo, sit amet porta diam. Nam ultrices sodales lacus, id vulputate mauris. Nulla sit amet ultrices dui. Sed porttitor aliquam urna, sit amet ultrices ante. Donec sagittis sem ut porta luctus. Phasellus non lacinia lorem, dictum fringilla tellus. Praesent sollicitudin justo eu augue tincidunt mattis.&lt;/p&gt;
 
 &lt;p&gt;Now let&amp;#8217;s move onto &lt;a href=&#39;http://devtro.co/&#39; title=&#39;Devtro&#39;&gt;Devtro.co&lt;/a&gt;&lt;/p&gt;</description>
 				<pubDate>Fri, 05 Jul 2013 00:00:00 -0400</pubDate>
@@ -18,7 +22,7 @@
 		
 			<item>
 				<title>Why?</title>
-				<description>&lt;p&gt;Why do I need this? What good will come of this?&lt;/p&gt;</description>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In semper hendrerit tellus, dignissim mollis lectus venenatis commodo. Curabitur et felis non ante tempor fermentum. Mauris lobortis metus sit amet libero congue eleifend. Aliquam accumsan felis massa, in convallis justo bibendum ut. Suspendisse in commodo velit. Curabitur at tincidunt dui, et consectetur purus. Cras imperdiet mi placerat neque vulputate, at tincidunt.&lt;/p&gt;</description>
 				<pubDate>Thu, 04 Jul 2013 00:00:00 -0400</pubDate>
 				<link>http://shibarsh.in//2013/07/04/why%3F.html</link>
 				<guid isPermaLink="true">http://shibarsh.in//2013/07/04/why%3F.html</guid>
