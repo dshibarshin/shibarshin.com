@@ -16,13 +16,15 @@
 html,
 body {
   font-size: 100%; 
-  background-color: #FAFAFA; }
+  background-color: #FAFAFA; 
+  color: #454454;}
 
 body {
   padding: 0;
   margin: 0;
   height: 100%;
   font-family: "Helvetica Neue", "Helvetica", Helvetica, sans-serif;
+  color: #454454;
   font-weight: normal;
   font-style: normal;
   line-height: 1;
@@ -30,7 +32,7 @@ body {
   padding-bottom: 0.03125em; }
 
 header {
-  font-color: black;
+  font-color: #454454;
   height: auto;
   width: auto;
   margin: 0 auto; }
@@ -48,22 +50,9 @@ header {
   /*box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5); 
   border-radius: 10px; }*/
 
-.blog > .post {
-  width: 90%;
-  margin: 0 auto;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, sans-serif;
-  text-rendering: optimizeLegibility;
-  padding-bottom: 0.05em;  }
-
-ul {
+ul li {
     padding: 0;
     list-style-type: none; }
-
-ul.post {
-  list-style-type: none; }
-
-ul.post li {
-  height: 100%; }
 
 .blog > .post a:link {    
   color: #1e1c29 !important; }
@@ -77,14 +66,18 @@ ul.post li {
 footer {
   font-color: #1e1c29;
   font-size: 1.25em;
-  text-align: center;
-  position: fixed;
-  height: auto;
+  padding: 0 10px;
+  position: absolute;
+  padding-bottom: 20px;
   width: 100%;
-  bottom: 0.03125em; }
+}
+
+footer ul li {
+  float: right;
+  margin-right: 10px; }
 
 h1 {
-  font-color: #1e1c29;
+  font-color: #454454;
   font: 100 4.5em 'Helvetica Neue', Helvetica; 
   text-transform: uppercase;
   text-align: center;
@@ -92,9 +85,11 @@ h1 {
   text-rendering: optimizeLegibility; }
 
 h2 {
+  font-color: #454454;
   font-size: 1.5em; }
 
 h3 {
+  font-color: #454454;
   font-size: 1em;
   font-weight: normal;
   font-style: normal; }
