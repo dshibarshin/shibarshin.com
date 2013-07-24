@@ -16,39 +16,48 @@
 html,
 body {
   font-size: 100%; 
-  background-color: #DEEEFF; }
+  background-color: #FAFAFA; }
 
 body {
   padding: 0;
   margin: 0;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  height: 100%;
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, sans-serif;
   font-weight: normal;
   font-style: normal;
   line-height: 1;
-  cursor: default; }
+  cursor: default; 
+  padding-bottom: 0.03125em; }
 
 header {
   font-color: black;
+  height: auto;
   width: auto;
   margin: 0 auto; }
 
 .blog {
-  font-family: "roboto", sans-serif;
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, sans-serif;
   text-rendering: optimizeLegibility;
+  font-size: 1.25em;
+  line-height: 1.75em;
   color: #454454;
-  width: auto;
-  padding-top: 35px;
-  margin: 35px auto;
-  background-color: white;
-  box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5); }
+  width: 90%;
+  padding-top: 0.05em;
+  margin: 0.05em auto;
+  background-color: #FAFAFA; }
+  /*box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5); 
+  border-radius: 10px; }*/
 
 .blog > .post {
   width: 90%;
   margin: 0 auto;
-  padding-bottom: 35px;  }
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, sans-serif;
+  text-rendering: optimizeLegibility;
+  padding-bottom: 0.05em;  }
 
-.blog > .content {
-  font-size: 1.5em; }
+ul {
+    padding: 0;
+    list-style-type: none; }
 
 ul.post {
   list-style-type: none; }
@@ -67,26 +76,26 @@ ul.post li {
 
 footer {
   font-color: #1e1c29;
-  text-align:center;
-  position:fixed;
+  font-size: 1.25em;
+  text-align: center;
+  position: fixed;
   height: auto;
   width: 100%;
-  bottom: 0.02631578947368%; }
+  bottom: 0.03125em; }
 
 h1 {
   font-color: #1e1c29;
-  font: 100 72px/72px 'Helvetica Neue', Helvetica, Arial; 
+  font: 100 4.5em 'Helvetica Neue', Helvetica; 
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 4px;
   text-rendering: optimizeLegibility; }
 
 h2 {
-  font-size: 2em; }
+  font-size: 1.5em; }
 
 h3 {
   font-size: 1em;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal; }
 
@@ -105,3 +114,9 @@ a:hover {
 a:active {
   text-decoration: none;
   color: #1e1c29; }
+
+@media screen and (max-width: 640px) {
+  body {
+    font-size: 75%;
+  }
+}

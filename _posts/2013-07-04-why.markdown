@@ -1,0 +1,6 @@
+---
+layout: default
+title:  "Why"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In semper hendrerit tellus, dignissim mollis lectus venenatis commodo. Curabitur et felis non ante tempor fermentum. Mauris lobortis metus sit amet libero congue eleifend. Aliquam accumsan felis massa, in convallis justo bibendum ut. Suspendisse in commodo velit. Curabitur at tincidunt dui, et consectetur purus. Cras imperdiet mi placerat neque vulputate, at tincidunt.
