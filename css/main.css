@@ -30,7 +30,6 @@ body {
 
 header {
   font-color: black;
-  padding-top: 3.5%;
   width: auto;
   margin: 0 auto; }
 
@@ -73,12 +72,12 @@ footer {
   position:fixed;
   height: auto;
   width: 100%;
-  bottom: 20px;
+  bottom: 0.02631578947368%;
   white-space: nowrap; }
 
 h1 {
   color: #1e1c29 !important;
-  font: 100 72px/72px 'Helvetica Neue', Helvetica, Arial;
+  font: 100 72px/72px 'Helvetica Neue', Helvetica, Arial; 
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 4px;
@@ -88,7 +87,10 @@ h2 {
   font-size: 2em; }
 
 h3 {
-  font-size: 1em; }
+  font-size: 1em;
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal; }
 
 a:link {
   text-decoration: none;
