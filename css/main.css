@@ -1,29 +1,38 @@
-* {
-  margin: 0 auto;
-}
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
 
-html { 
-  -webkit-font-smoothing: antialiased;  
-}
-
-#container {
-  margin: auto;
-}
-
-html {
+/*html {
+  -webkit-font-smoothing: antialiased;
   background: url(/img/bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
-}
+  background-size: cover; }*/
+
+html,
+body {
+  font-size: 100%; }
+
+body {
+  background: white;
+  color: #222222;
+  padding: 0;
+  margin: 0;
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+  cursor: default; }
 
 header {
-  font-color: white;
+  font-color: black;
   padding-top: 3.5%;
-  width: 100%;
-  margin: 0 auto;
-}
+  width: auto;
+  margin: 0 auto; }
 
 .blog {
   font-family: "roboto", sans-serif;
@@ -33,79 +42,66 @@ header {
   padding-top: 35px;
   margin: 35px auto;
   background-color: white;
-  box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5);
-}
+  box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5); }
 
 .blog > .post {
   width: 90%;
   margin: 0 auto;
-  padding-bottom: 35px;  
-}
+  padding-bottom: 35px;  }
 
 .blog > .content {
-  font-size: 1.5em;
-}
+  font-size: 1.5em; }
 
 ul.post {
-  list-style-type: none;
-}
+  list-style-type: none; }
 
 ul.post li {
-  height: 100%;
-}
+  height: 100%; }
 
 .blog > .post a:link {    
-  color: #1e1c29 !important;
-}
+  color: #1e1c29 !important; }
 
 .blog > .post a:active {
-  color: #1e1c29 !important;
-}
+  color: #1e1c29 !important; }
 
 .blog > .post a:visited {
-  color: #1e1c29 !important;
-}
+  color: #1e1c29 !important; }
 
 footer {
-  color: white;
+  color: #1e1c29;
   text-align:center;
   position:fixed;
   height: auto;
   width: 100%;
-  bottom: 4px;
-  white-space: nowrap;
-}
+  bottom: 20px;
+  white-space: nowrap; }
 
 h1 {
-  color: #fff !important;
+  color: #1e1c29 !important;
   font: 100 72px/72px 'Helvetica Neue', Helvetica, Arial;
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 4px;
-  text-rendering: optimizeLegibility;
-}
+  text-rendering: optimizeLegibility; }
 
 h2 {
-  font-size: 2em;
-}
+  font-size: 2em; }
 
 h3 {
-  font-size: 1em;
-}
+  font-size: 1em; }
 
 a:link {
-    text-decoration: none;
-    color: inherit;
-}
+  text-decoration: none;
+  color: inherit; }
+
 a:visited {
   text-decoration: none;
-  color: inherit;
-}
+  color: inherit; }
+
 a:hover {
   text-decoration: none;
-  color: #1e1c29;
-}
+  color: #1e1c29; }
+
 a:active {
   text-decoration: none;
-  color: #000;
-}
+  color: #1e1c29; }
