@@ -17,7 +17,9 @@ html,
 body {
   font-size: 100%; 
   background-color: #FAFAFA; 
-  color: #454454;}
+  color: #454454;
+  padding: 0;
+  list-style-type: none; }
 
 body {
   padding: 0;
@@ -32,27 +34,57 @@ body {
   padding-bottom: 0.03125em; }
 
 header {
-  font-color: #454454;
+  color: #454454;
   height: auto;
   width: auto;
+  margin: 0 auto; }
+
+.wrap {
+  line-height: 1.75em; }
+
+.container { 
+  color: #454454; 
+  width: 650px;
   margin: 0 auto; }
 
 .blog {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, sans-serif;
   text-rendering: optimizeLegibility;
   font-size: 1.25em;
-  line-height: 1.75em;
   color: #454454;
-  width: 90%;
+  width: 650px;
   padding-top: 0.05em;
   margin: 0.05em auto;
   background-color: #FAFAFA; }
   /*box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5); 
   border-radius: 10px; }*/
 
+.blog ul li {
+  padding: 0;
+  list-style-type: none; }
+
 ul li {
-    padding: 0;
-    list-style-type: none; }
+  padding: 0;
+  list-style-type: none; }
+
+.listing {
+  margin: 25px 0;
+  padding: 0; }
+
+.listing li {
+    list-style-type: none;
+    padding: 7px 5px;
+    font-size: 18px; }
+
+a {
+    text-decoration: none; }
+
+.listing span {
+  padding-top: 2px;
+  float: right;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: #999; }
 
 .blog > .post a:link {    
   color: #1e1c29 !important; }
@@ -63,10 +95,22 @@ ul li {
 .blog > .post a:visited {
   color: #1e1c29 !important; }
 
+#seeMore {
+  background: #565656;
+  color: #FAFAFA !important;
+  padding: 1px 6px;
+  display: inline-block;
+  position: relative;
+  margin-top: 60px;
+}
+
+#seeMore:hover {
+  color: #8BA5C4;
+}
+
 footer {
-  font-color: #1e1c29;
+  color: #1e1c29;
   font-size: 1.25em;
-  padding: 0 10px;
   position: absolute;
   padding-bottom: 20px;
   width: 100%;
@@ -90,7 +134,7 @@ h2 {
 
 h3 {
   font-color: #454454;
-  font-size: 1em;
+  font-size: .80em;
   font-weight: normal;
   font-style: normal; }
 
@@ -112,6 +156,9 @@ a:active {
 
 @media screen and (max-width: 640px) {
   body {
-    font-size: 75%;
-  }
+    font-size: 75%; }
+  header {
+    margin: 10px 0 0; }
+  .blog {
+    width: 320px; }
 }
