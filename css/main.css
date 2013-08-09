@@ -177,12 +177,30 @@ a:active {
   text-decoration: none;
   color: #1e1c29; }
 
-@media screen and (max-width: 320px) {
+/*@media screen and (max-width: 480px) {
   body {
-    font-size: 85%; 
-    margin: 10px 0 0;}
+    font-size: 85%; }
   header {
     margin: 10px 0 0; }
   .blog {
-    width: 360px; }
+    width: 280px; }
+}*/
+
+@media screen and (device-aspect-ratio: 2/3) {
+  body {
+    font-size: 85%; }
+  header {
+    margin: 10px 0 0; }
+  .blog {
+    width: 280px; }
 }
+
+@media screen and (device-aspect-ratio: 40/71) {
+  body {
+    font-size: 85%; }
+  header {
+    margin: 10px 0 0; }
+  .blog {
+    width: 280px; }
+}
+@media screen and (device-aspect-ratio: 3/4) {}
