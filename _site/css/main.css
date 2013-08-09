@@ -195,4 +195,13 @@ a:active {
     width: 280px; }
 }
 
+@media screen and (device-aspect-ratio: 40/71) {
+  body {
+    font-size: 85%; }
+  header {
+    margin: 10px 0 0; }
+  .blog {
+    width: 280px; }
+}
+
 /*@media screen and (device-aspect-ratio: 3/4) {}*/
