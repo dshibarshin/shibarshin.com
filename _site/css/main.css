@@ -192,20 +192,7 @@ a:active {
   header {
     margin: 10px 0 0; }
   .blog {
-    width: 280px; 
-    margin: 10px 0 0; }
-}
-
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 568px) 
-and (orientation : landscape) {
-  body {
-    font-size: 85%; }
-  header {
-    margin: 10px 0 0; }
-  .blog {
-    width: 360px; }
+    width: 280px; }
 }
 
 /*@media screen and (device-aspect-ratio: 3/4) {}*/
