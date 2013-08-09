@@ -177,11 +177,12 @@ a:active {
   text-decoration: none;
   color: #1e1c29; }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 320px) {
   body {
-    font-size: 85%; }
+    font-size: 85%; 
+    margin: 10px 0 0;}
   header {
     margin: 10px 0 0; }
   .blog {
-    width: 320px; }
+    width: 360px; }
 }
