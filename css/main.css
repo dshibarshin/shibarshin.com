@@ -118,7 +118,7 @@ a {
 
 footer {
   font: 200 4.5em 'Helvetica Neue', Helvetica; 
-  font-size: 1.25em;
+  font-size: 1.30em;
   position: absolute;
   padding-bottom: 20px;
   width: 100%;
@@ -145,6 +145,21 @@ h3 {
   font-size: .80em;
   font-weight: normal;
   font-style: normal; }
+
+.dotted {
+  border-top: 1px dotted #fff;
+  color: #fff;
+  background-color: #535353;
+  height: 1px;
+  width:auto; }
+
+.image-container-top { 
+  height: 10px; 
+  overflow:hidden; }
+
+.image-container { 
+  height: 20px; 
+  overflow:hidden; }
 
 a:link {
   text-decoration: none;

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "WIP"
+title: "WOPWOP"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis tortor at justo varius ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam a nunc commodo lorem venenatis tristique. Mauris egestas orci arcu, nec malesuada felis condimentum eu. Cras quis convallis diam. Morbi rutrum erat quis tortor semper vulputate. Vestibulum luctus ligula eu faucibus vulputate. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
