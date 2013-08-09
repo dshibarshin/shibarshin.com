@@ -192,7 +192,8 @@ a:active {
   header {
     margin: 10px 0 0; }
   .blog {
-    width: 280px; }
+    width: 280px; 
+    margin: 10px 0 0; }
 }
 
 @media screen and (device-aspect-ratio: 40/71) {
