@@ -5,6 +5,6 @@ title: "Current Projects"
 
 
 
-[SASGlobal.co](http://sasglobal.co/ "SAS Global") 
+Marketing with [West Coast Shipping][1]
 
-[Devtro.co](http://devtro.co/ "Devtro") 
+[1]:	http://wcshipping.com "West Coast Shipping"
