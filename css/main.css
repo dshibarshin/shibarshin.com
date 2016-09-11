@@ -7,7 +7,7 @@
 
 /*html {
   -webkit-font-smoothing: antialiased;
-  background: url(/img/bg.jpg) no-repeat center center fixed; 
+  background: url(/img/bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -15,14 +15,14 @@
 
 html,
 body {
-  font-size: 100%; 
-  background-color: #FAFAFA; 
+  font-size: 100%;
+  background-color: #FAFAFA;
   color: #454454;
   padding: 0;
   list-style-type: none; }
 
 body {
-  padding: 0;
+  padding: 10px;
   margin: 0;
   height: 100%;
   font-family: "Open Sans", sans-serif;
@@ -30,7 +30,7 @@ body {
   font-weight: normal;
   font-style: normal;
   line-height: 1;
-  cursor: default; 
+  cursor: default;
   padding-bottom: 0.03125em; }
 
 header {
@@ -42,8 +42,8 @@ header {
 .wrap {
   line-height: 1.75em; }
 
-.container { 
-  color: #454454; 
+.container {
+  color: #454454;
   width: 650px;
   margin: 0 auto; }
 
@@ -55,7 +55,7 @@ header {
   padding-top: 0.05em;
   margin: 0.05em auto;
   background-color: #FAFAFA; }
-  /*box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5); 
+  /*box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5);
   border-radius: 10px; }*/
 
 .blog ul li {
@@ -85,7 +85,7 @@ a {
   font-size: 12px;
   color: #999; }
 
-.blog > .post a:link {    
+.blog > .post a:link {
   color: #1e1c29 !important; }
 
 .blog > .post a:active {
@@ -153,12 +153,12 @@ h3 {
   height: 1px;
   width:auto; }
 
-.image-container-top { 
-  height: 10px; 
+.image-container-top {
+  height: 10px;
   overflow:hidden; }
 
-.image-container { 
-  height: 20px; 
+.image-container {
+  height: 20px;
   overflow:hidden; }
 
 a:link {
