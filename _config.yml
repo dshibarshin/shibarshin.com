@@ -1,10 +1,10 @@
 name: Dmitriy Shibarshin
-pygments: true
+pygments: rogue
 description: Dmitriy Shibarshin
 url: http://shibarsh.in/
 analytics :
   provider : google
-  google : 
+  google :
       tracking_id : 'UA-41805851-1'
   getclicky :
     site_id :
