@@ -22,8 +22,8 @@ body {
   list-style-type: none; }
 
 body {
-  padding: 10px;
-  margin: 0;
+  padding: 0;
+  margin: 10 10 10 10;
   height: 100%;
   font-family: "Open Sans", sans-serif;
   color: #454454;
